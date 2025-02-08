@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm **Vijay Narasingam**  
 
-![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Content+Creator;Web+Designer;Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
+![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Web+Designer;Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
 
   
 <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="300" height="250" />  
